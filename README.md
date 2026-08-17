@@ -42,6 +42,10 @@ Uninstalling the app also removes its local data. To remove a cloud backup, use 
 
 If future versions add advertising, purchases, analytics, accounts, network features, or other data processing, this policy will be updated before those changes are released.
 
+## Developer
+
+Number Ninja is developed by Ievgen Holtsev.
+
 ## Contact
 
 For privacy questions, contact: **[makaveli.apps@gmail.com]**
