@@ -44,7 +44,7 @@ If future versions add advertising, purchases, analytics, accounts, network feat
 
 ## Developer
 
-Number Ninja is developed by Ievgen Holtsev.
+Number Ninja is developed by Yevhen Holtsev.
 
 ## Contact
 
